@@ -119,6 +119,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+
     public void clicked4(View view) {
         sum3 = sum2 + num4;
         String st2 = etn3.getText().toString();
